@@ -1,0 +1,42 @@
+void s;
+int x;
+bool w;
+int function() {}
+int function(int x) {}
+int function(int x, bool a) {}
+ int a;
+int function() {int a; a = 0;}
+int function(int x, int y) {int a;bool b; a = 0; 
+ a = a > b;  a = a >= b;
+ a = a < b; a = a <= b; a = a==b; b = c !=s; l = !l; w = w && s; w = w ||s;
+}
+bool test_num(int a, int b, void a) {
+    a = 1 + 4;
+    b = a * 6;
+    b = b - a;
+    c = a / 0;
+    b = -1;
+    b = -a + 2 * 12 / 0;
+    return;
+}
+void main(int a, int s, void s) {
+    test_num(a, s, s);
+    function();
+    fxv = function(a);
+    str = "hi!";
+    a ++;
+    b--;
+    b = false;
+    c = (false);
+    cin >> Hello ;
+    cin >> a;
+    cout << ab;
+    cout << "Loca";
+    if (a == b && a!= b || l > s) {
+        while (a != b) {
+        }
+               ls = 1 > 2;
+    }
+    return 1;
+}
+int test(void hi) { if (b == -1) { x = 4+3*5-y; while (c) { y = y*2+x; } } else { x = 0; }} 
