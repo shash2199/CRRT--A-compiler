@@ -3,7 +3,6 @@ import java_cup.runtime.*; // defines the Symbol class
 // The generated scanner will return a Symbol for each token that it finds.
 // A Symbol contains an Object field named value; that field will be of type
 // TokenVal, defined below.
-//
 // A TokenVal object contains the line number on which the token occurs as
 // well as the number of the character on that line that starts the token.
 // Some tokens (literals and IDs) also include the value of the token.
