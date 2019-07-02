@@ -75,6 +75,7 @@ return new Symbol(sym.EOF);
 
 %%
 
+
 "bool"    { Symbol S = new Symbol(sym.BOOL, new TokenVal(yyline+1, CharNum.num));
             CharNum.num += yytext().length();
             return S;
