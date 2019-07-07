@@ -1,6 +1,7 @@
 /**
  * ErrMsg
  *
+ *
  * This class is used to generate warning and fatal error messages.
  */
 class ErrMsg {
