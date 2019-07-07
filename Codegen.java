@@ -181,6 +181,7 @@ public class Codegen {
                                        int arg3) {
         generateIndexed(opcode, arg1, arg2, arg3, "");
     }
+    
 
     // **********************************************************************
     // generateLabeled (string args -- perhaps empty)
