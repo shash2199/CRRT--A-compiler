@@ -201,7 +201,7 @@ public class P6 {
 			return message;
 		}
 	}
-
+	
 	private class BadOutfileException extends Exception {
 		private static final long serialVersionUID = 1L;
 		private String message;
