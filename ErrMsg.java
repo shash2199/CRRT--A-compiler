@@ -27,6 +27,7 @@ class ErrMsg {
 	static void warn(int lineNum, int charNum, String msg) {
 		System.err.println(lineNum + ":" + charNum + " ***WARNING*** " + msg);
 	}
+	
 
 	/**
 	 * Returns the err flag.
