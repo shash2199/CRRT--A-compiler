@@ -210,7 +210,7 @@ public class P6 {
 			super(cause);
 			this.message = "Could not open " + filename + " for reading";
 		}
-
+	
 		@Override
 		public String getMessage() {
 			return message;
